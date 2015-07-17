@@ -1,4 +1,5 @@
 <?php
+
 namespace SocialiteProviders\Azure;
 
 use SocialiteProviders\Manager\SocialiteWasCalled;
